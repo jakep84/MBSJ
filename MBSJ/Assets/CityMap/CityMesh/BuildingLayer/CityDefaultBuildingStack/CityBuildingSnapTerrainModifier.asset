@@ -8,9 +8,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 63d97cb1cfb3f1b499c24763afa54873, type: 3}
-  m_Name: CityVTFactory
+  m_Script: {fileID: 11500000, guid: 40bee3110109c0848bb86c9b5c436039, type: 3}
+  m_Name: CityBuildingSnapTerrainModifier
   m_EditorClassIdentifier: 
-  _mapId: mapbox.mapbox-streets-v7
-  Visualizers:
-  - {fileID: 11400000, guid: 921338876d0414033a94b88780fc767a, type: 2}
+  Active: 1

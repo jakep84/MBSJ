@@ -8,9 +8,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 63d97cb1cfb3f1b499c24763afa54873, type: 3}
-  m_Name: CityVTFactory
+  m_Script: {fileID: 11500000, guid: 6c7ba03c743d46c4a99f4971c74f7cbd, type: 3}
+  m_Name: CityBuildingPolygonModifier
   m_EditorClassIdentifier: 
-  _mapId: mapbox.mapbox-streets-v7
-  Visualizers:
-  - {fileID: 11400000, guid: 921338876d0414033a94b88780fc767a, type: 2}
+  Active: 1
