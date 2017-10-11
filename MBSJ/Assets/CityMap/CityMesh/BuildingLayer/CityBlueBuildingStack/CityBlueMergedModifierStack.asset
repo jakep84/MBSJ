@@ -11,5 +11,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ef7239c46ddb6ab469994291c9603c01, type: 3}
   m_Name: CityBlueMergedModifierStack
   m_EditorClassIdentifier: 
-  MeshModifiers: []
-  GoModifiers: []
+  MeshModifiers:
+  - {fileID: 11400000, guid: 3fc8e6053bda94eba84fe15bb4cc62e5, type: 2}
+  - {fileID: 11400000, guid: 3a9db8cf1c8b540f789a469aa6f08b53, type: 2}
+  - {fileID: 11400000, guid: df3c2cc31305d419a9128fde8a921817, type: 2}
+  - {fileID: 11400000, guid: f8705279774354ad6b49d8dfd02441e0, type: 2}
+  GoModifiers:
+  - {fileID: 11400000, guid: f8a7a004eb8e546fa81faa38e7236244, type: 2}

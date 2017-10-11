@@ -12,8 +12,10 @@ MonoBehaviour:
   m_Name: CityBlueTextureModifier
   m_EditorClassIdentifier: 
   Active: 1
-  _textureTop: 0
+  _textureTop: 1
   _useSatelliteTexture: 0
-  _topMaterials: []
-  _textureSides: 0
-  _sideMaterials: []
+  _topMaterials:
+  - {fileID: 2100000, guid: 372957061779741fcb2e67efc90f499b, type: 2}
+  _textureSides: 1
+  _sideMaterials:
+  - {fileID: 2100000, guid: 372957061779741fcb2e67efc90f499b, type: 2}
