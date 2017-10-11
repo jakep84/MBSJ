@@ -19,3 +19,5 @@ MonoBehaviour:
   Stacks:
   - Type: schools
     Stack: {fileID: 11400000, guid: f3f38c58bf7d348bdba2b0a19ce21c30, type: 2}
+  - Type: stores
+    Stack: {fileID: 11400000, guid: d9ccebab09ef34d608537714905aba06, type: 2}
